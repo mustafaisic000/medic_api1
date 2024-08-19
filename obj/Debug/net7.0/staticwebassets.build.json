@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yEC2OlQ7kygmYizmAR9aeolsKG9Y8y2LxuLLQ1Kouhs=",
+  "Source": "MedicLabApi",
+  "BasePath": "_content/MedicLabApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
